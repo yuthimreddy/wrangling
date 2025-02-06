@@ -1,47 +1,63 @@
 ,title,price,year,link,brand,age
-0,a sweet sedan avalon xle plus,24000,,https://charlottesville.craigslist.org/cto/d/charlottesville-sweet-sedan-avalon-xle/7818676493.html,missing,
-1,"1998 gmc sierra 1500 sl truck auto rwd <103,000 miles",6950,1998.0,https://charlottesville.craigslist.org/cto/d/louisa-1998-gmc-sierra-1500-sl-truck/7818492010.html,gmc,27.0
-2,gmc sierra 3500hd 6.6 duramax diesel dually,26000,,https://charlottesville.craigslist.org/cto/d/charlottesville-gmc-sierra-3500hd-66/7818481465.html,gmc,
-3,2007 chrysler sebring,2900,2007.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2007-chrysler-sebring/7818345424.html,missing,18.0
-4,2012 nissan versa sl,3500,2012.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2012-nissan-versa-sl/7818255369.html,missing,13.0
-5,ford e-350 2003 quigley 4x4 ambulance camper van,55000,2003.0,https://charlottesville.craigslist.org/cto/d/charlottesville-ford-quigley-4x4/7818176803.html,ford,22.0
-6,2012 lexus rx450h awd,10950,2012.0,https://charlottesville.craigslist.org/cto/d/henrico-2012-lexus-rx450h-awd/7818114210.html,lexus,13.0
-7,2008 toyota rav4,5000,2008.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2008-toyota-rav4/7818070103.html,toyota,17.0
-8,2013 toyota avalon,17000,2013.0,https://charlottesville.craigslist.org/cto/d/iron-gate-2013-toyota-avalon/7817843689.html,toyota,12.0
-9,2014 subaru outback premium awd or 2009 honda fit sport,3900,2014.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2014-subaru-outback/7817681802.html,subaru,11.0
-10,1963 /1965 triumph tr4 convertible,2250,1963.0,https://charlottesville.craigslist.org/cto/d/woodberry-forest-triumph-tr4-convertible/7817663151.html,missing,62.0
-11,2017 hyundai santa fe sports,9200,2017.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2017-hyundai-santa-fe/7817612179.html,missing,8.0
-12,1989 xj wrangler,5999,1989.0,https://charlottesville.craigslist.org/cto/d/white-hall-1989-xj-wrangler/7817049789.html,missing,36.0
-13,2013 jeep grand cherokee - overland - 4wd (replaced motor),9500,2013.0,https://charlottesville.craigslist.org/cto/d/crozet-2013-jeep-grand-cherokee/7816766515.html,jeep,12.0
-14,1998 dodge 3500 4wd diesel pick-up,18900,1998.0,https://charlottesville.craigslist.org/cto/d/nellysford-1998-dodge-wd-diesel-pick-up/7816698166.html,dodge,27.0
-15,2004 lexus sc 430 convertible,11400,2004.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2004-lexus-sc-430/7816110681.html,lexus,21.0
-16,1989 chevrolet corvette convertible,3500,1989.0,https://charlottesville.craigslist.org/cto/d/scottsville-1989-chevrolet-corvette/7816061514.html,chevrolet,36.0
-17,1957 chevrolet bel air 2 door hardtop,22500,1957.0,https://charlottesville.craigslist.org/cto/d/woodberry-forest-1957-chevrolet-bel-air/7815898142.html,chevrolet,68.0
-18,2003 ford escape,5500,2003.0,https://charlottesville.craigslist.org/cto/d/waynesboro-2003-ford-escape/7815794939.html,ford,22.0
-19,mechanic/welder special,4800,,https://charlottesville.craigslist.org/cto/d/stanardsville-mechanic-welder-special/7815534257.html,missing,
-20,2014 nissan pathfinder platinum,4500,2014.0,https://charlottesville.craigslist.org/cto/d/scottsville-2014-nissan-pathfinder/7815332321.html,missing,11.0
-21,nissan frontier pickup,3800,,https://charlottesville.craigslist.org/cto/d/earlysville-nissan-frontier-pickup/7815249133.html,missing,
-22,2011 bmw 335i xdrive sedan,8000,2011.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2011-bmw-335i-xdrive/7815195173.html,bmw,14.0
-23,2012 honda civic lx,5900,2012.0,https://charlottesville.craigslist.org/cto/d/henrico-2012-honda-civic-lx/7814947011.html,honda,13.0
-24,"2018 chevy silverado 4x4, ls, 84k miles",24900,2018.0,https://charlottesville.craigslist.org/cto/d/midlothian-2018-chevy-silverado-4x4-ls/7814857394.html,chevy,7.0
-25,1994 chevy 454 5 speed,4450,1994.0,https://charlottesville.craigslist.org/cto/d/kents-store-1994-chevy-speed/7814772437.html,chevy,31.0
-26,1995 f-250,7000,1995.0,https://charlottesville.craigslist.org/cto/d/stanardsville-1995-250/7814668118.html,missing,30.0
-27,1989 chevrolet cavalier,3000,1989.0,https://charlottesville.craigslist.org/cto/d/woodberry-forest-1989-chevrolet-cavalier/7814450412.html,chevrolet,36.0
-28,"mitsubishi eclipse gt, 2008",7300,2008.0,https://charlottesville.craigslist.org/cto/d/charlottesville-mitsubishi-eclipse-gt/7814419869.html,mitsubishi,17.0
-29,bmw i8 - excellent condition,44000,,https://charlottesville.craigslist.org/cto/d/haywood-bmw-i8-excellent-condition/7813341345.html,bmw,
-30,2006 toyota matrix for sale,2199,2006.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2006-toyota-matrix-for/7813186890.html,toyota,19.0
-31,1989 chevrolet silverado 4x4,14500,1989.0,https://charlottesville.craigslist.org/cto/d/charlottesville-1989-chevrolet/7812723841.html,chevrolet,36.0
-32,2019 audi q8 quattro suv,37000,2019.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2019-audi-q8-quattro-suv/7812715010.html,audi,6.0
-33,2006 honda pilot exl fwd,4700,2006.0,https://charlottesville.craigslist.org/cto/d/henrico-2006-honda-pilot-exl-fwd/7812693427.html,honda,19.0
-34,1961 mg mga roadster,3250,1961.0,https://charlottesville.craigslist.org/cto/d/woodberry-forest-1961-mg-mga-roadster/7812638637.html,missing,64.0
-35,1957 international a series pickup truck,5250,1957.0,https://charlottesville.craigslist.org/cto/d/woodberry-forest-1957-international/7812638531.html,missing,68.0
-36,2009 bmw 328i coupe,7900,2009.0,https://charlottesville.craigslist.org/cto/d/barboursville-2009-bmw-328i-coupe/7812584735.html,bmw,16.0
-37,1993 jeep wrangler 4x4 sport utility 2d.,9500,1993.0,https://charlottesville.craigslist.org/cto/d/waynesboro-1993-jeep-wrangler-4x4-sport/7812508575.html,jeep,32.0
-38,2011 toyota tundra rock warrior,14000,2011.0,https://charlottesville.craigslist.org/cto/d/dyke-2011-toyota-tundra-rock-warrior/7812277787.html,toyota,14.0
-39,great work van 2003 chevy express 3500,5500,2003.0,https://charlottesville.craigslist.org/cto/d/quinque-great-work-van-2003-chevy/7812200801.html,chevy,22.0
-40,2005 chrysler town & country,2000,2005.0,https://charlottesville.craigslist.org/cto/d/quinque-2005-chrysler-town-country/7812199973.html,missing,20.0
-41,2010 honda crv lx,6500,2010.0,https://charlottesville.craigslist.org/cto/d/henrico-2010-honda-crv-lx/7811693663.html,honda,15.0
-42,2018 mercedes sprinter 2500 crew van,62800,2018.0,https://charlottesville.craigslist.org/cto/d/barboursville-2018-mercedes-sprinter/7811369567.html,missing,7.0
-43,sold haters  1992 honda accord gas sipper sold,2300,1992.0,https://charlottesville.craigslist.org/cto/d/charlottesville-sold-haters-1992-honda/7811342457.html,honda,33.0
-44,ford pickup 2001,3500,2001.0,https://charlottesville.craigslist.org/cto/d/waynesboro-ford-pickup-2001/7811199292.html,ford,24.0
-45,2015 honda fit,8749,2015.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2015-honda-fit/7810838940.html,honda,10.0
+0,1997 honda accord lx 2 door,2800,1997.0,https://charlottesville.craigslist.org/cto/d/charlottesville-1997-honda-accord-lx/7824233059.html,honda,28.0
+1,2004 toyota tundra sr5 for sale -  manual transmission v6 model,6500,2004.0,https://charlottesville.craigslist.org/cto/d/afton-2004-toyota-tundra-sr5-for-sale/7824232127.html,toyota,21.0
+2,"2006 cadillac cts 107,086 miles only",2950,2006.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2006-cadillac-cts-miles/7824205698.html,cadillac,19.0
+3,chevy,6000,,https://charlottesville.craigslist.org/cto/d/waynesboro-chevy/7824186332.html,chevy,
+4,1966 chevrolet corvair corsa sport coupe,5000,1966.0,https://charlottesville.craigslist.org/cto/d/bremo-bluff-1966-chevrolet-corvair/7824173984.html,chevrolet,59.0
+5,1979 oldsmobile cutlass supreme broughm,2800,1979.0,https://charlottesville.craigslist.org/cto/d/charlottesville-1979-oldsmobile-cutlass/7824160442.html,missing,46.0
+6,2009 honda fit sport,3400,2009.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2009-honda-fit-sport/7824096220.html,honda,16.0
+7,2001 mercedes e320,2000,2001.0,https://charlottesville.craigslist.org/cto/d/scottsville-2001-mercedes-e320/7823993772.html,missing,24.0
+8,2012 honda civic lx,5900,2012.0,https://charlottesville.craigslist.org/cto/d/henrico-2012-honda-civic-lx/7823876536.html,honda,13.0
+9,toyota camry 2008,3000,2008.0,https://charlottesville.craigslist.org/cto/d/scottsville-toyota-camry-2008/7823636080.html,toyota,17.0
+10,toyota tundra 2013,16000,2013.0,https://charlottesville.craigslist.org/cto/d/scottsville-toyota-tundra-2013/7823632266.html,toyota,12.0
+11,chev van,4000,,https://charlottesville.craigslist.org/cto/d/palmyra-chev-van/7823632242.html,missing,
+12,1994 dodge ram b1500 van,9750,1994.0,https://charlottesville.craigslist.org/cto/d/louisa-1994-dodge-ram-b1500-van/7823474959.html,dodge,31.0
+13,2008 ford f350 super duty,9500,2008.0,https://charlottesville.craigslist.org/cto/d/north-garden-2008-ford-f350-super-duty/7823252225.html,ford,17.0
+14,2006 acura tl,3000,2006.0,https://charlottesville.craigslist.org/cto/d/barboursville-2006-acura-tl/7823201713.html,acura,19.0
+15,ford 1992 mustang gt,18500,1992.0,https://charlottesville.craigslist.org/cto/d/charlottesville-ford-1992-mustang-gt/7822685906.html,ford,33.0
+16,1981 volkswagen diesel rabbit - pickup - running needs work,6500,1981.0,https://charlottesville.craigslist.org/cto/d/charlottesville-1981-volkswagen-diesel/7822650593.html,volkswagen,44.0
+17,2007 nissan altima s,2900,2007.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2007-nissan-altima/7822632171.html,missing,18.0
+18,2012 jeep patriot 4x4,6250,2012.0,https://charlottesville.craigslist.org/cto/d/lyndhurst-2012-jeep-patriot-4x4/7822525934.html,jeep,13.0
+19,2010 honda odessey,3000,2010.0,https://charlottesville.craigslist.org/cto/d/palmyra-2010-honda-odessey/7822427237.html,honda,15.0
+20,2008 kia sedona lx 4door,2500,2008.0,https://charlottesville.craigslist.org/cto/d/barboursville-2008-kia-sedona-lx-4door/7822425347.html,kia,17.0
+21,"mitsubishi eclipse gt, 2008",6800,2008.0,https://charlottesville.craigslist.org/cto/d/charlottesville-mitsubishi-eclipse-gt/7822328562.html,mitsubishi,17.0
+22,2007 jeep wrangler - manual,8700,2007.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2007-jeep-wrangler/7822281686.html,jeep,18.0
+23,classic chevy cavalier,2900,,https://charlottesville.craigslist.org/cto/d/orange-classic-chevy-cavalier/7822212020.html,chevy,
+24,2017 audi a4 prestige,11000,2017.0,https://charlottesville.craigslist.org/cto/d/shipman-2017-audi-a4-prestige/7822176883.html,audi,8.0
+25,2004 toyota celica,5200,2004.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2004-toyota-celica/7822174332.html,toyota,21.0
+26,2012 ford mustang premium v6 coupe,13500,2012.0,https://charlottesville.craigslist.org/cto/d/bremo-bluff-2012-ford-mustang-premium/7821827034.html,ford,13.0
+27,2017 honda accord hybrid,14000,2017.0,https://charlottesville.craigslist.org/cto/d/montpelier-station-2017-honda-accord/7821612708.html,honda,8.0
+28,toyota tacoma 2000,10700,2000.0,https://charlottesville.craigslist.org/cto/d/quinque-toyota-tacoma-2000/7821590907.html,toyota,25.0
+29,1989 chevrolet silverado 4x4,14500,1989.0,https://charlottesville.craigslist.org/cto/d/charlottesville-1989-chevrolet/7821464016.html,chevrolet,36.0
+30,2004 lincoln ls v8,3450,2004.0,https://charlottesville.craigslist.org/cto/d/shipman-2004-lincoln-ls-v8/7821350698.html,missing,21.0
+31,2003 volkswagen passat w8 4 motion,2600,2003.0,https://charlottesville.craigslist.org/cto/d/shipman-2003-volkswagen-passat-w8-motion/7821345128.html,volkswagen,22.0
+32,2008 bmw x5 4.8i,10000,2008.0,https://charlottesville.craigslist.org/cto/d/earlysville-2008-bmw-x5-48i/7821271169.html,bmw,17.0
+33,2014 ford fusion daily driven,4000,2014.0,https://charlottesville.craigslist.org/cto/d/haywood-2014-ford-fusion-daily-driven/7821246226.html,ford,11.0
+34,2007 mercury mariner,3500,2007.0,https://charlottesville.craigslist.org/cto/d/haywood-2007-mercury-mariner/7820892591.html,missing,18.0
+35,2015 nissan altima,3500,2015.0,https://charlottesville.craigslist.org/cto/d/richmond-2015-nissan-altima/7820703591.html,missing,10.0
+36,2021 honda crv,29000,2021.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2021-honda-crv/7820682302.html,honda,4.0
+37,2006 honda pilot exl fwd,4700,2006.0,https://charlottesville.craigslist.org/cto/d/henrico-2006-honda-pilot-exl-fwd/7820635670.html,honda,19.0
+38,2003 dodge 1500,4000,2003.0,https://charlottesville.craigslist.org/cto/d/roseland-2003-dodge-1500/7820534784.html,dodge,22.0
+39,2003 ford f250 6.0,18000,2003.0,https://charlottesville.craigslist.org/cto/d/roseland-2003-ford-f250-60/7820533171.html,ford,22.0
+40,1957 international a series pickup truck,5250,1957.0,https://charlottesville.craigslist.org/cto/d/woodberry-forest-1957-international/7820520241.html,missing,68.0
+41,1961 mg mga roadster,3250,1961.0,https://charlottesville.craigslist.org/cto/d/woodberry-forest-1961-mg-mga-roadster/7820520061.html,missing,64.0
+42,2017 ford focus se,7000,2017.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2017-ford-focus-se/7820471454.html,ford,8.0
+43,2014 acura mdx awd,7500,2014.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2014-acura-mdx-awd/7820090695.html,acura,11.0
+44,2014 honda odyssey van black,13000,2014.0,https://charlottesville.craigslist.org/cto/d/scottsville-2014-honda-odyssey-van-black/7820090166.html,honda,11.0
+45,1984 gmc 3500,7000,1984.0,https://charlottesville.craigslist.org/cto/d/charlottesville-1984-gmc-3500/7820076593.html,gmc,41.0
+46,2010 honda crv lx,6500,2010.0,https://charlottesville.craigslist.org/cto/d/henrico-2010-honda-crv-lx/7820052637.html,honda,15.0
+47,2018 mercedes sprinter 2500 crew van,62800,2018.0,https://charlottesville.craigslist.org/cto/d/barboursville-2018-mercedes-sprinter/7820040769.html,missing,7.0
+48,2009 bmw 328i coupe,7500,2009.0,https://charlottesville.craigslist.org/cto/d/barboursville-2009-bmw-328i-coupe/7819945910.html,bmw,16.0
+49,1997 nissan pathfinder,3500,1997.0,https://charlottesville.craigslist.org/cto/d/charlottesville-1997-nissan-pathfinder/7819380167.html,missing,28.0
+50,2018 tesla model s 75d awd manufacture warranty,26900,2018.0,https://charlottesville.craigslist.org/cto/d/henrico-2018-tesla-model-75d-awd/7819302933.html,tesla,7.0
+51,2004 chevy silverado,3000,2004.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2004-chevy-silverado/7819002309.html,chevy,21.0
+52,a sweet sedan avalon xle plus,24000,,https://charlottesville.craigslist.org/cto/d/charlottesville-sweet-sedan-avalon-xle/7818676493.html,missing,
+53,gmc sierra 3500hd 6.6 duramax diesel dually,26000,,https://charlottesville.craigslist.org/cto/d/charlottesville-gmc-sierra-3500hd-66/7818481465.html,gmc,
+54,2012 nissan versa sl,3200,2012.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2012-nissan-versa-sl/7818255369.html,missing,13.0
+55,ford e-350 2003 quigley 4x4 ambulance camper van,49500,2003.0,https://charlottesville.craigslist.org/cto/d/charlottesville-ford-quigley-4x4/7818176803.html,ford,22.0
+56,2012 lexus rx450h awd,10950,2012.0,https://charlottesville.craigslist.org/cto/d/henrico-2012-lexus-rx450h-awd/7818114210.html,lexus,13.0
+57,2013 honda ridgeline rtl 4wd,7900,2013.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2013-honda-ridgeline/7817681802.html,honda,12.0
+58,1963 /1965 triumph tr4 convertible,2250,1963.0,https://charlottesville.craigslist.org/cto/d/woodberry-forest-triumph-tr4-convertible/7817663151.html,missing,62.0
+59,1989 xj wrangler,4999,1989.0,https://charlottesville.craigslist.org/cto/d/white-hall-1989-xj-wrangler/7817049789.html,missing,36.0
+60,2013 jeep grand cherokee - overland - 4wd (replaced motor),8750,2013.0,https://charlottesville.craigslist.org/cto/d/crozet-2013-jeep-grand-cherokee/7816766515.html,jeep,12.0
+61,2004 lexus sc 430 convertible,11400,2004.0,https://charlottesville.craigslist.org/cto/d/charlottesville-2004-lexus-sc-430/7816110681.html,lexus,21.0
